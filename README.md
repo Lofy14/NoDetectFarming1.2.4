@@ -23,3 +23,7 @@ Does not work with pizza, working on fix in next update
 Fixed foraging auto setspawn bugging out and not setting spawn in right place
 
 Fixed auto sell sometimes bugging out and crashing your game
+
+# I have a question, where can I ask it?
+
+Dm steegi#0191 for help!
