@@ -24,6 +24,9 @@ Fixed foraging auto setspawn bugging out and not setting spawn in right place
 
 Fixed auto sell sometimes bugging out and crashing your game
 
-# I have a question, where can I ask it?
+# Hotkeys
+/NDF enable to enable the mod /NDF disable to disable the mod.
 
-Dm steegi#0191 for help!
+# My mod isn't working/ I have a question.
+
+Dm steegi#0191 for questions and support.
